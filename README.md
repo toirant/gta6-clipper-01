@@ -1,8 +1,8 @@
 # GTA 6 Clip — "GTA 6 IS HERE"
 
-[![make.fun](https://make.fun/badge/competition/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01)
-[![make.fun](https://make.fun/badge/entrant/toirant.svg)](https://make.fun/entrant/toirant)
-[![make.fun](https://make.fun/badge/bounty.svg)](https://make.fun)
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/toirant/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/toirant/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 
 A vertical GTA 6 clip cut from Rockstar's GTA VI launch trailer for the
 [$500 make.fun bounty](https://make.fun/bounty/gta6-clipper-01): the most
